@@ -57,5 +57,5 @@ const getAudioDurationInSeconds = async (
   throw new Error('No duration found!')
 }
 
-export default getAudioDurationInSeconds
+// export default getAudioDurationInSeconds
 export { getAudioDurationInSeconds }
